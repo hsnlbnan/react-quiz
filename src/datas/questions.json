@@ -13,7 +13,7 @@
   {
     "id": 2,
     "question": "Bellekte tutulan 'gerçek' DOM'un bir kopyasına ne denir?",
-    "answer": "eni uygulama için kullanmak istediğiniz ad",
+    "answer": "Virtual DOM",
     "options": [
       "Virtual DOM",
       "DOM",
