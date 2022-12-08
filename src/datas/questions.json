@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "question": "Yeni bir React projesi oluşturmak için doğru komut nedir?",
+    "answer": "npx create-react-app myReactApp",
+    "options": [
+      "npx create-react-app myReactApp",
+      "npm create-react-app",
+      "npm create-react-app myReactApp",
+      "npx create-react-app"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Bellekte tutulan 'gerçek' DOM'un bir kopyasına ne denir?",
+    "answer": "eni uygulama için kullanmak istediğiniz ad",
+    "options": [
+      "Virtual DOM",
+      "DOM",
+      "Shadow DOM",
+      "React DOM"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "React yerel geliştirme sunucusunu başlatmak için hangi komut kullanılır?",
+    "answer": "npm start",
+    "options": ["npm start", "npm serve", "pm2 start", "npm run dev"]
+  },
+  {
+    "id": 4,
+    "question": "Bir React geliştirme sunucusunun kullandığı varsayılan localhost portu nedir?",
+    "answer": "3000",
+    "options": ["8000", "3000", "8001", "8888"]
+  },
+  {
+    "id": 5,
+    "question": "React kodunu geliştirmek ve çalıştırmak için Node.js gereklidir.",
+    "answer": "Doğru",
+    "options": ["Doğru", "Yanlış"]
+  },
+  {
+    "id": 6,
+    "question": "'Children props' nedir?",
+    "answer": "Bileşenleri diğer bileşenlere yerleştirmenize izin veren bir özellik",
+    "options": [
+      "Alt bileşenlere veri iletmenizi sağlayan bir özellik",
+      "Bir nesneyi özellik olarak ayarlamanıza izin veren bir özellik",
+      "Bileşenleri diğer bileşenlere yerleştirmenize izin veren bir özellik",
+      "Duruma alt değerler ekleyen bir özellik "
+    ]
+  },
+  {
+    "id": 7,
+    "question": "React, bir bileşenin durumunu değiştirmek için setState() yöntemini kullanır.",
+    "answer": "Doğru",
+    "options": ["Doğru", "Yanlış"]
+  },
+  {
+    "id": 8,
+    "question": "JavaScript map() yöntemini kullanarak bir liste oluştururken, oluşturulan her öğe için ne gereklidir?",
+    "answer": "Bir key özelliği",
+    "options": [
+      "Bir key özelliği",
+      "Bir value özelliği",
+      "Bir id özelliği",
+      "Bir name özelliği"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Spread operatörünü kullanarak dizileri nasıl birleştirebilirsiniz? ",
+
+    "answer": "[...array1, ...array2]",
+    "options": [
+      "[...array1, ...array2]",
+      "[array1, array2]",
+      "[array1 + array2]",
+      "[array1, array2]"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Aşağıdakilerden hangisi React Hooks için bir kural DEĞİLDİR?",
+    "answer": "Hooklar, Class veya Function bileşenlerinde çağrılabilir",
+    "options": [
+      "Hooklar, Class veya Function bileşenlerinde çağrılabilir",
+      "Hooklar yalnızca React Function bileşenlerinin içinden çağrılabilir",
+      "Hooklar koşullu olamaz",
+      "Hooklar yalnızca bir bileşenin en üst seviyesinde çağrılabilir"
+    ]
+  }
+]
